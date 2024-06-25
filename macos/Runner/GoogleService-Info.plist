@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyDk9yP4wPwQQ69N8rXbhtuQJZivw_HmNdw</string>
+	<key>GCM_SENDER_ID</key>
+	<string>1036977366932</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.mycompany.jojotv</string>
+	<key>PROJECT_ID</key>
+	<string>jojo-tv-x24c2n</string>
+	<key>STORAGE_BUCKET</key>
+	<string>jojo-tv-x24c2n.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:1036977366932:ios:ee80629ad11bb2e66b5181</string>
+</dict>
+</plist>
